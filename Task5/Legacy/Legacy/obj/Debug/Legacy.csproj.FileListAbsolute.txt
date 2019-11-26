@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\bin\Debug\Legacy.exe.config
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\bin\Debug\Legacy.exe
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\bin\Debug\Legacy.pdb
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\obj\Debug\Legacy.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\obj\Debug\Legacy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\obj\Debug\Legacy.exe
+C:\Users\HP\Desktop\Ильнару\Task5\Legacy\Legacy\obj\Debug\Legacy.pdb
